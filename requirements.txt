@@ -1,0 +1,7 @@
+# for running tests
+pytest
+
+# for building documentation
+sphinx>=1.6
+sphinxcontrib-blockdiag
+numpydoc
